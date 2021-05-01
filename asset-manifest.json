@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-crown-clothing/static/css/main.3ab7844e.chunk.css",
+    "main.js": "/react-crown-clothing/static/js/main.7bf9fccb.chunk.js",
+    "main.js.map": "/react-crown-clothing/static/js/main.7bf9fccb.chunk.js.map",
+    "runtime-main.js": "/react-crown-clothing/static/js/runtime-main.ab4a47f0.js",
+    "runtime-main.js.map": "/react-crown-clothing/static/js/runtime-main.ab4a47f0.js.map",
+    "static/js/2.2a7a1b4c.chunk.js": "/react-crown-clothing/static/js/2.2a7a1b4c.chunk.js",
+    "static/js/2.2a7a1b4c.chunk.js.map": "/react-crown-clothing/static/js/2.2a7a1b4c.chunk.js.map",
+    "index.html": "/react-crown-clothing/index.html",
+    "static/css/main.3ab7844e.chunk.css.map": "/react-crown-clothing/static/css/main.3ab7844e.chunk.css.map",
+    "static/js/2.2a7a1b4c.chunk.js.LICENSE.txt": "/react-crown-clothing/static/js/2.2a7a1b4c.chunk.js.LICENSE.txt",
+    "static/media/crown.207ae289.svg": "/react-crown-clothing/static/media/crown.207ae289.svg",
+    "static/media/shopping-bag.a688874f.svg": "/react-crown-clothing/static/media/shopping-bag.a688874f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab4a47f0.js",
+    "static/js/2.2a7a1b4c.chunk.js",
+    "static/css/main.3ab7844e.chunk.css",
+    "static/js/main.7bf9fccb.chunk.js"
+  ]
+}
